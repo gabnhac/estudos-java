@@ -1,0 +1,1 @@
+* Generics: garantir que dentro de uma coleção os seus elementos serão sempre dos mesmo tipo.
